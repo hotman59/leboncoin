@@ -1,0 +1,29 @@
+header {
+  border-bottom: 1px solid orange;
+  height: 150px;
+}
+img {
+  position: absolute;
+}
+#titre {
+  display: inline-block;
+}
+header p {
+  width: 35%;
+  display: inline-block;
+  float: right;
+}
+#carte {
+  margin-bottom: -30%;
+  margin-left: 30%;
+}
+nav {
+  display: block;
+  font-weight: bold;
+  color: blue;
+  margin-bottom: -30%;
+  margin-left: 80%;
+}
+ul {
+  list-style-type: none;
+}
